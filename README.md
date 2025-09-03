@@ -1,43 +1,154 @@
-# Ex.No.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Universal Prompt, Structures Prompt Refinements and Prompt Size Limitations
+# Ex.No.4 AI-Powered Virtual Health Assistant Using Scenario-Based Prompt Engineering   
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+### NAME: DEEPIKA S
+### REGISTER NUMBER : 212222230028
 
+### Aim: 
+To design an AI-powered virtual health assistant that helps patients with basic medical inquiries, appointment scheduling, and health reminders.
+The assistant should maintain a friendly and empathetic tone, while providing accurate and accessible information.
+This experiment explores diverse prompting techniques (Comparative Analysis Prompts, Universal Prompts, Structured Prompts, Refinements, and Prompt Size Limitations) for developing the assistant.
 
-Main Objectives:
+---
+### 📖 Scenario & Use Case
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+In modern healthcare, patients often struggle with:
 
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
+- Long waiting times for basic queries.
 
-Persona and Context Prompts:
+- Difficulty managing appointments and prescriptions.
 
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
+- Lack of quick, reliable guidance for non-emergency situations.
 
-Result: The various types of Prompts are executed successfully with generated the report.
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/06b0acca-e0ce-434e-b488-24612752da24" />
 
 
+### Use Case:
+
+- Domain: Healthcare AI
+
+- Focus: Virtual Health Assistant
+
+- Target Audience: Patients, doctors, and hospital administrators
+
+  <img width="2560" height="1536" alt="image" src="https://github.com/user-attachments/assets/f1e81fef-1633-4cf0-a568-572ed146058f" />
+
+---
+
+### 🎯 Main Objectives
+
+- 🩺 Provide instant responses to general health-related queries.
+
+- 📅 Automate appointment scheduling and reminders.
+
+- 💊 Assist patients with prescription and medicine tracking.
+
+- 🤖 Ensure empathetic and user-friendly interactions.
+
+- 🔒 Maintain data privacy and security.
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fcb69e11-2a5c-417a-b8e6-0960b16405fd" />
+
+---
 
 
-# Result: Thus the Prompts were exected succcessfully.
+### 🧩 Idea Generation Prompts
+
+### Prompt: “What core features should a virtual health assistant include to improve patient engagement and efficiency?”
+
+### Generated Ideas:
+
+- 💬 24/7 chatbot for answering FAQs (symptoms, diet tips, precautions).
+
+- 📅 Automated appointment booking system.
+
+- ⏰ Smart reminders for medicines and check-ups.
+
+- 🔍 Symptom checker (non-diagnostic, advisory only).
+
+- 🌐 Multilingual support for diverse patients.
+
+---
+
+### 🧑‍🤝‍🧑 Persona & Context Prompts
+
+### Prompt: “How should the assistant communicate differently with patients and doctors?”
+
+### Generated Context:
+
+- 👩‍⚕️ For Patients:
+
+- Simple, empathetic, and reassuring tone.
+
+- Example: “Don’t worry, I’ll remind you to take your medicine at 8 PM tonight.”
+
+- 👨‍⚕️ For Doctors:
+
+- Concise, professional summaries of patient interactions.
+
+- Example: “Patient X reported mild fever for 2 days; appointment scheduled for Friday 4 PM.”
+
+  ---
+
+### ⚙️ Structured Prompts for Use Case
+
+- Instruction Prompt: “Summarize patient’s last 3 chat interactions in under 50 words for doctor’s dashboard.”
+
+- Comparative Prompt: “Compare morning vs evening medicine reminder schedules for better adherence.”
+
+- Refinement Prompt: “Rewrite the response to sound more empathetic for elderly patients.”
+
+- Limitation Prompt: “Generate advice under 30 words suitable for SMS reminders.”
+
+  ---
+
+### ⚠️ Challenges
+
+- ❌ Ensuring medical advice remains non-diagnostic and guideline-compliant.
+
+- ❌ Balancing conciseness with clarity in limited word prompts.
+
+- ❌ Handling multilingual communication without losing empathy.
+
+- ❌ Maintaining strict data privacy (HIPAA/GDPR compliance).
+
+  ---
+
+### 🚀 Future Scope
+
+- 🧠 Integration with wearables for real-time health monitoring.
+
+- 🌐 Use of federated learning for secure AI improvements.
+
+- 🤝 Expansion into telemedicine platforms.
+
+- 📊 Predictive analytics for early health risk detection.
+
+---
+
+### 📊 Diagrams
+1. Workflow of Virtual Health Assistant
+
+📌 Awareness → Query Handling → Appointment/Reminder → Feedback → Data Insights
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ce9c7ab9-5e5b-4d32-bcab-a091f88a1aaa" />
+
+### 2. Mind Map – Virtual Health Assistant Features
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/679abff0-0934-4cd2-a590-3d4eaab9aa96" />
+
+
+---
+
+### Result
+This experiment demonstrates how scenario-based prompting can help design a virtual health assistant that is effective, empathetic, and adaptable.
+By applying comparative, universal, structured, and refined prompts, the chatbot can handle diverse user needs, ultimately improving healthcare accessibility and efficiency.
+Thus the various types of prompts were executed successfully and the report was generated.
+
+
+  
+
+
+
+
+
+
+
 
